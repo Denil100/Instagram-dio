@@ -1,4 +1,4 @@
-# Finalizado Projeto 
+# Projeto Finalizado 
 Desafio de Reconstruir a pagina de login do Instagram.
 
 ### Foi usado:
